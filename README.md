@@ -1,1 +1,2 @@
-# Stock-prediction
+# stock
+stock prediction using ML
